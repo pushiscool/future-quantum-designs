@@ -26,8 +26,9 @@ A research portfolio under The Data Center Accord exploring quantum optimization
   Architecture
   Telemetry → Optimization → Simulation → Security → Research Output
 
-  Author 
-  Pushpak Jain  Founder, The Data Center Accord
-  
+## 👥 Author & Governance
+
+*   **Founder:** Pushpak Jain (Founder, The Data Center Accord).
+*   **Organization:** [The Data Center Accord](https://thedatacenteraccord.org)
   
   

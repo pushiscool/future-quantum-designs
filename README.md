@@ -13,6 +13,13 @@ A research portfolio under The Data Center Accord exploring quantum optimization
  Cooling digital twins for sustainability
  Post-quantum cryptography readiness
 
+| Repository | Focus Area | Core Objective |
+| :--- | :--- | :--- |
+| `quantum-datacenter-control-loop` | **Optimization** | Quantum-accelerated workload dispatch & real-time clean-energy grid load balancing. |
+| `quantum-cooling-digital-twin` | **Simulation** | High-fidelity environmental digital twins tracking liquid-to-air thermal states. |
+| `pqc-security-fabric` | **Security** | Implementation of NIST-approved post-quantum algorithms across internal telemetry lines. |
+| `accord-data-schemas` | **Data** | Standardized data schemas matching community feedback and compliance targets. |
+| `research-papers-and-benchmarks` | **Publications** | Academic literature, VQC-RO benchmarks, and open-source infrastructure datasets. |
 
 # Repository Map
  Repo | Focus 

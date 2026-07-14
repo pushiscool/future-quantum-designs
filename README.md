@@ -4,9 +4,7 @@
 ## 🟢 Research Vision
 A research portfolio under The Data Center Accord exploring quantum optimization, digital twins, and post-quantum security for sustainable AI infrastructure.
 
- Website: https://thedatacenteraccord.org
-
-<span style="color: green">Research Vision</span>
+🌐 Website: https://thedatacenteraccord.org
  
  ## AI infrastructure is no longer just a technical problem , it is an energy, water, grid, and cybersecurity challenge
 

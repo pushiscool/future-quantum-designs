@@ -1,5 +1,6 @@
 
 # Future Quantum Designs.
+<img src="Quantum-OptimizedDataCenterControlLoop.png" alt="Quantum Optimized Data Center Control Loop" width="600"/>
 
 ## 🟢 Research Vision
 A research portfolio under The Data Center Accord exploring quantum optimization, digital twins, and post-quantum security for sustainable AI infrastructure.
@@ -32,4 +33,3 @@ A research portfolio under The Data Center Accord exploring quantum optimization
 *   **Organization:** [The Data Center Accord](https://thedatacenteraccord.org)
   
   
-<img src="Quantum-OptimizedDataCenterControlLoop.png" alt="Quantum Optimized Data Center Control Loop" width="600"/>

@@ -3,7 +3,7 @@ A research portfolio under The Data Center Accord exploring quantum optimization
  Website: https://thedatacenteraccord.org
 
  Research Vision
- AI infrastructure is no longer just a technical problem — it is an **energy, water, grid, and cybersecurity challenge
+ AI infrastructure is no longer just a technical problem , it is an energy, water, grid, and cybersecurity challenge
 
  This initiative explores:
  ⚡ Quantum optimization for data center efficiency

@@ -23,15 +23,6 @@ A research portfolio under The Data Center Accord exploring quantum optimization
 | `accord-data-schemas` | **Data** | Standardized data schemas matching community feedback and compliance targets. |
 | `research-papers-and-benchmarks` | **Publications** | Academic literature, VQC-RO benchmarks, and open-source infrastructure datasets. |
 
-
- Repo | Focus 
- quantum-datacenter-control-loop | Optimization 
- quantum-cooling-digital-twin | Simulation 
- pqc-security-fabric | Security 
- accord-data-schemas | Data 
- research-papers-and-benchmarks | Publications 
-
-
   Architecture
   Telemetry → Optimization → Simulation → Security → Research Output
 
